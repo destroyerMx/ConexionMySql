@@ -1,3 +1,8 @@
+
+//Carlos  el  sql  tiene dos conectores en su pagina,  el mensaje te dice que   la version de JAva no trabaja bien con la version antigua,
+//necesita la nueva
+//https://dev.mysql.com/downloads/connector/j/ 
+
 package app;
 
 import java.sql.Connection;
